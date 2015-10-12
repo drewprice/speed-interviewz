@@ -19,5 +19,7 @@ $(document).ready( function() {
 	    window.open('http://nymag.com/');
 	    window.open('http://www.wk.com/');
 	    window.open('http://vaynermedia.com/');
+	    window.open('http://www.ewsystemsinc.com/');
+	    window.open('https://kidpass.com/');
 	});
 });
